@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-24T17:32:36 SGT" name="Default suite" finished-at="2020-04-24T17:32:57 SGT" duration-ms="20845">
+    <groups>
+    </groups>
+    <test started-at="2020-04-24T17:32:36 SGT" name="Default test" finished-at="2020-04-24T17:32:57 SGT" duration-ms="20845">
+      <class name="IMDB.imdb.QuestionsAnswers">
+        <test-method is-config="true" signature="loaddrive()[pri:0, instance:IMDB.imdb.QuestionsAnswers@61dd025]" started-at="2020-04-24T17:32:23 SGT" name="loaddrive" finished-at="2020-04-24T17:32:36 SGT" duration-ms="12610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loaddrive -->
+        <test-method signature="DrivetoTopRatedShows()[pri:1, instance:IMDB.imdb.QuestionsAnswers@61dd025]" started-at="2020-04-24T17:32:36 SGT" name="DrivetoTopRatedShows" description="TopRatedShows" finished-at="2020-04-24T17:32:41 SGT" duration-ms="5313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DrivetoTopRatedShows -->
+        <test-method signature="GameofThronessearch()[pri:2, instance:IMDB.imdb.QuestionsAnswers@61dd025]" started-at="2020-04-24T17:32:41 SGT" name="GameofThronessearch" description="Game_of_Thrones_search" finished-at="2020-04-24T17:32:48 SGT" duration-ms="6291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GameofThronessearch -->
+        <test-method signature="assertions()[pri:3, instance:IMDB.imdb.QuestionsAnswers@61dd025]" started-at="2020-04-24T17:32:48 SGT" name="assertions" description="Assertions" finished-at="2020-04-24T17:32:50 SGT" duration-ms="1977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertions -->
+        <test-method signature="Create_login_account()[pri:4, instance:IMDB.imdb.QuestionsAnswers@61dd025]" started-at="2020-04-24T17:32:50 SGT" name="Create_login_account" description="Create New Account and Login" finished-at="2020-04-24T17:32:57 SGT" duration-ms="7217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_login_account -->
+      </class> <!-- IMDB.imdb.QuestionsAnswers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
